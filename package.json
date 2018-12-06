@@ -9,6 +9,7 @@
   "author": "Brandon Jull",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^4.0.1"
+    "csv-parse": "^4.0.1",
+    "mkdirp": "^0.5.1"
   }
 }
