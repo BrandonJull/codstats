@@ -3,7 +3,7 @@ A toolset written in Node.js for processing CWL statistics in their native CSV f
 
 ## Usage
 
-1. Install the dependancies: `npm install`
+1. Install the dependencies: `npm install`
 2. Run with Node.js: `node index.js`
 
 See `index.js` for a usage example.
