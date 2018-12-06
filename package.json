@@ -1,0 +1,14 @@
+{
+  "name": "codstats",
+  "version": "1.0.0",
+  "description": "A toolset used to process CWL statistics in their native CSV format into a condensed JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Jull",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.0.1"
+  }
+}
