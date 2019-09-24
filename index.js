@@ -1,12 +1,12 @@
 const stats = require('./lib/stats');
 
-stats.generatePlayerEventStats('wwii').then(() => {
+stats.generatePlayerEventStats('bo4').then(() => {
     // Log the time it took for the function to complete.
     console.timeEnd('generatePlayerEventStats');
 
     console.log('Data processing complete.');
 
-    return stats.generateTeamEventStats('wwii');
+    return stats.generateTeamEventStats('bo4');
 }).then(() => {
     // Log the time it took for the function to complete.
     console.timeEnd('generateTeamEventStats');

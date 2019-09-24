@@ -1,3 +1,5 @@
 node_modules/
 data/out/game/wwii/player/*.json
 data/out/game/wwii/team/*.json
+data/out/game/bo4/player/*.json
+data/out/game/bo4/team/*.json
