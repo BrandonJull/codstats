@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "csv-parse": "^4.4.6",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.6"
   }
 }
